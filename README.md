@@ -1,4 +1,4 @@
-Game
+Rock-Paper-Scissors
 ====
 
-group game
+Rock-Paper-Scissors game made Htm5, Css and Javascript
